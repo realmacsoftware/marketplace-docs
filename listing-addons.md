@@ -14,7 +14,7 @@ Okay, got an account? Ready to list an addon? Let's Go!
 
 ### Listing an Addon
 
-Once you have an account on the Marketplace you can list as many addons as you like. Although, if you have a large backlog of addons we'd recommend adding them over the course of weeks or months. By drip-feeding and spreading out the releases you'll get more exposure to a wider section of the RapidWeaver user base.&#x20;
+Once you have an account on the Marketplace you can list as many addons as you like. Although, **if you have a large backlog of addons we'd recommend adding them over a few weeks or months**. By drip-feeding and spreading out the releases you'll get more exposure to a wider section of the RapidWeaver user base.
 
 {% hint style="info" %}
 Take the time to read through the [Marketing Addons](marketing-addons.md) documentation for advice on reaching more users and how we promote your addons.
