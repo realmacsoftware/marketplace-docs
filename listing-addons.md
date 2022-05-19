@@ -16,6 +16,8 @@ Okay, got an account? Ready to list an addon? Let's Go!
 
 Once you have an account on the Marketplace you can list as many addons as you like. Although, **if you have a large backlog of addons we'd recommend adding them over a few weeks or months**. By drip-feeding and spreading out the releases you'll get more exposure to a wider section of the RapidWeaver user base.
 
+**The new Marketplace supports the following addon types**; Element, Plugin, Project, Theme, stacks, and Utility. If you think there's an addon type missing, please get in touch so we can work on adding it to the site.
+
 {% hint style="info" %}
 Take the time to read through the [Marketing Addons](marketing-addons.md) documentation for advice on reaching more users and how we promote your addons.
 {% endhint %}
@@ -26,11 +28,11 @@ Let's take a look at what details are required to list an addon.
 
 Addons require a basic set of details, along with details for each version listed. All details are required when submitting an addon unless stated as (optional).
 
-* **Icon:** A single image that best represents the addon (usually the icon or thumbnail).
+* **Icon:** A single image that best represents the addon. **This should be a square image, without transparency.**
   * Dimension: 512(w)x512(h) @ 2x
   * Format: JPG or PNG
 * **Title:** The title of the addon as it appears inside RapidWeaver.
-* **Type:** Element, Plugin, Project, Theme, Stack, Utility
+* **Type:** Element, Plugin, Project, Theme, stack, Utility
 * **Compatibility:** The version of RapidWeaver your addon requires.
   * RapidWeaver Classic (includes RapidWeaver 8)
   * RapidWeaver Elements
