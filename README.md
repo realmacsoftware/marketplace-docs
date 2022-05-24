@@ -18,7 +18,7 @@ The [RapidWeaver Marketplace](https://marketplace.realmacsoftware.com) is a webs
 
 ### What's new?
 
-Addons were previously promoted on the [rapidweavercommunity.com](https://rapidweavercommunity.com) (this site is still live, but is no longer updated). The old community site listed addons, a website gallery, blog posts, discounts, and much more. It wasn't very modern (by today's standards) and was confusing to navigate for users. The new [RapidWeaver Marketplace](http://marketplace.realmacsoftware.com) changes all of that.
+Addons were previously promoted on the [rapidweavercommunity.com](https://rapidweavercommunity.com) (this site is still live, but is no longer updated and will be **going** **offline soon**). The old community site listed addons, a website gallery, blog posts, discounts, and much more. It wasn't very modern (by today's standards) and was confusing to navigate for users. The new [RapidWeaver Marketplace](http://marketplace.realmacsoftware.com) changes all of that.
 
 The new Marketplace has been re-written from the ground up using modern frameworks and technology. As a result, it's now faster to browse, with better search, and best of all, built with its own private API to allow closer integration with RapidWeaver.
 
