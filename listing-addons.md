@@ -45,7 +45,7 @@ Addons require a basic set of details, along with details for each version liste
 * **Status:** Draft, Live, Archived (when an addon is no longer available)
 * **Screenshots:** Between 2 and 6 images.
   * Dimension: 1920(w)x1080(h) @ 2x
-  * Kind: JPG or PNG
+  * Format: JPG or PNG
 
 #### Addon Version:
 
