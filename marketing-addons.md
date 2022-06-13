@@ -13,9 +13,8 @@ Realmac Software will help promote your addons in the following ways:
 1. **The Marketplace is promoted to ALL new and existing RapidWeaver users**. Users receive emails highlighting the best addons, as well as encouraging them to browse the marketplace and look for new and useful addons.
 2. Marketplace search is built into RapidWeaver (coming soon).
 3. Addons are automatically re-posted to the [RapidWeaver Community](https://community.realmacsoftware.com/c/marketplace/).
-4. Addons are automatically re-posted to the [RapidWeaver Twitter](https://twitter.com/rapidweaver) account.
-5. If your addon generates a lot of discussion in the Community, the post will be included in the weekly email that goes out to the RapidWeaver community.
-6. From time to time we send out emails to our entire mailing list highlighting some of the great addons available for RapidWeaver. We do our best to feature a wide range of developers, if you've not been featured yet, please get in touch to let us know.
+4. If your addon generates a lot of discussion in the Community, the post will be included in the weekly email that goes out to the RapidWeaver community.
+5. From time to time we send out emails to our entire mailing list highlighting some of the great addons available for RapidWeaver. We do our best to feature a wide range of developers, if you've not been featured yet, please get in touch to let us know.
 
 #### A note about Likes and Comments
 
