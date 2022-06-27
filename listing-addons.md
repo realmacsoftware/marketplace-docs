@@ -32,7 +32,8 @@ Addons require a basic set of details, along with details for each version liste
   * Dimension: 512(w)x512(h) @ 2x
   * Format: JPG or PNG
 * **Title:** The title of the addon as it appears inside RapidWeaver.
-* **Type:** Element, Plugin, Project, Theme, stack, Utility
+* **Type:** Element, Framework, Plugin, Project, Theme, stack, Utility
+* **Works With:** (Pick from listed addons)
 * **Compatibility:** The version of RapidWeaver your addon requires.
   * RapidWeaver Classic (includes RapidWeaver 8)
   * RapidWeaver Elements
