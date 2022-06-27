@@ -37,6 +37,7 @@ Addons require a basic set of details, along with details for each version liste
 * **Compatibility:** The version of RapidWeaver your addon requires.
   * RapidWeaver Classic (includes RapidWeaver 8)
   * RapidWeaver Elements
+  * Stacks App
 * **Price (USD only):** $
 * **Bundle ID:** unique-bundle-id
 * **Description:** A description of what the addon does.
