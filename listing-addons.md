@@ -76,7 +76,9 @@ You **do not** need to use or match the artwork in the template. The example art
 
 Get creative, and make sure it's clear to users what your addon will help them achieve.
 
-⬇️ [Download RapidWeaver Marketplace Addon Template](https://www.realmacsoftware.com/downloads/rapidWeaver-marketplace-addon-template.zip) (Sketch).
+⬇️ [Download RapidWeaver Marketplace Addon Template](https://www.realmacsoftware.com/downloads/rapidWeaver-marketplace-addon-template.zip) (Sketch) - v1 - RW8
+
+⬇️ [Download RapidWeaver Marketplace Addon Template](https://www.realmacsoftware.com/downloads/rapidWeaver-marketplace-addon-template-v2.zip) (Sketch) - v2 - RWC - **Update!**
 
 If you'd like to use another app to create your artwork, the required sizes and format are listed above in the [Addon Details.](listing-addons.md#addon-details)
 
