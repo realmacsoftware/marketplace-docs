@@ -41,6 +41,7 @@ Addons require a basic set of details, along with details for each version liste
 * **Price (USD only):** $
 * **Bundle ID:** unique-bundle-id
 * **Description:** A description of what the addon does.
+  * Supports [Markdown](https://daringfireball.net/projects/markdown/) (HTML is not supported).
 * **Preview URL:** A live preview of the addon in action.
 * **Store URL:** A direct store link to buy the addon.
 * **Trial Download URL (optional):** A link to download a trial version of the addon.
